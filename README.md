@@ -1,1 +1,0 @@
-# College-AI-Assistant-Use-Case
